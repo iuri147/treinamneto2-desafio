@@ -1,2 +1,2 @@
-# treinamneto2-desafio
+# treinamento2-desafio
 desafio sobre git 
